@@ -7,10 +7,6 @@ Este projeto é uma implementação simples de um sistema bancário em Java, uti
 O projeto é organizado em pacotes para melhor modularização:
 com.banco ├── Conta.java # Classe abstrata que define a estrutura básica de uma conta bancária. ├── ContaCorrente.java # Classe que representa uma conta corrente. ├── ContaPoupanca.java # Classe que representa uma conta poupança. com.banco.app └── App.java # Classe principal que executa o programa e realiza operações de teste.
 
-Insert Code
-Edit
-Copy code
-
 ## Funcionalidades
 
 - **Depósito**: Permite adicionar um valor ao saldo da conta.
